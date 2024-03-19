@@ -24,11 +24,15 @@
   "tabs": [],
   "navigation": [
     {
-      "group": "Prenup Essentials",
+      "group": "Islamic Prenup Essentials",
       "pages": [
         "essentials/property-rights",
+        "essentials/liabilities",
+        "essentials/mahr",
         "essentials/financial-disclosure",
-        "essentials/elective-share"
+        "essentials/maintenance-alimony",
+        "essentials/elective-share",
+        "essentials/waiver-of-rights"
       ]
     }
   ],
