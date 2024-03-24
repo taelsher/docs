@@ -38,6 +38,10 @@
     {
       "group": "FAQs",
       "pages": ["faq/which-state-should-i-choose"]
+    },
+    {
+      "group": "Disclaimers",
+      "pages": ["disclaimers/terms"]
     }
   ],
   "footerSocials": {
