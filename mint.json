@@ -24,7 +24,7 @@
   "tabs": [],
   "navigation": [
     {
-      "group": "Islamic Prenup Essentials",
+      "group": "Essentials",
       "pages": [
         "essentials/property-rights",
         "essentials/liabilities",
@@ -34,6 +34,10 @@
         "essentials/elective-share",
         "essentials/waiver-of-rights"
       ]
+    },
+    {
+      "group": "FAQs",
+      "pages": ["faq/which-state-should-i-choose"]
     }
   ],
   "footerSocials": {
