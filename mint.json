@@ -44,10 +44,10 @@
       "pages": [
         "clauses/property-rights",
         "clauses/liabilities",
-        "clauses/mahr",
-        "clauses/financial-disclosure",
         "clauses/maintenance-alimony",
         "clauses/elective-share",
+        "clauses/mahr",
+        "clauses/financial-disclosure",
         "clauses/waiver-of-rights"
       ]
     },
