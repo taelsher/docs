@@ -1,6 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Nikah Prenup Handbook",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -21,18 +25,30 @@
     "name": "Dashboard",
     "url": "https://nikahprenup.com/app"
   },
-  "tabs": [],
+  "tabs": [
+    {
+      "name": "Terminology",
+      "url": "terminology"
+    },
+    {
+      "name": "Attorneys",
+      "url": "attorneys"
+    }
+  ],
+  "primaryTab": {
+    "name": "Nikah Prenup"
+  },
   "navigation": [
     {
-      "group": "Essentials",
+      "group": "Islamic Clauses",
       "pages": [
-        "essentials/property-rights",
-        "essentials/liabilities",
-        "essentials/mahr",
-        "essentials/financial-disclosure",
-        "essentials/maintenance-alimony",
-        "essentials/elective-share",
-        "essentials/waiver-of-rights"
+        "clauses/property-rights",
+        "clauses/liabilities",
+        "clauses/mahr",
+        "clauses/financial-disclosure",
+        "clauses/maintenance-alimony",
+        "clauses/elective-share",
+        "clauses/waiver-of-rights"
       ]
     },
     {
@@ -42,6 +58,27 @@
     {
       "group": "Disclaimers",
       "pages": ["disclaimers/terms"]
+    },
+    {
+      "group": "Common Terms",
+      "pages": [
+        "terminology/alimony",
+        "terminology/clauses",
+        "terminology/community-property",
+        "terminology/equitable-distribution",
+        "terminology/financial-disclosure",
+        "terminology/jointly-held-property",
+        "terminology/joint-marital-property",
+        "terminology/marriage-certificate",
+        "terminology/marriage-license",
+        "terminology/marital-property",
+        "terminology/separate-property",
+        "terminology/spousal-support"
+      ]
+    },
+    {
+      "group": "Muslim Attorneys",
+      "pages": ["attorneys/illinois"]
     }
   ],
   "footerSocials": {
