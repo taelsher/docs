@@ -31,7 +31,7 @@
       "url": "terminology"
     },
     {
-      "name": "Attorneys",
+      "name": "Muslim Attorneys",
       "url": "attorneys"
     }
   ],
@@ -78,7 +78,7 @@
     },
     {
       "group": "Muslim Attorneys",
-      "pages": ["attorneys/illinois"]
+      "pages": ["attorneys/illinois", "attorneys/michigan"]
     }
   ],
   "footerSocials": {
