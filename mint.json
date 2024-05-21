@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "Q&A",
+      "url": "questions"
+    },
+    {
       "name": "Terminology",
       "url": "terminology"
     },
@@ -52,8 +56,8 @@
       ]
     },
     {
-      "group": "FAQs",
-      "pages": ["faq/which-state-should-i-choose"]
+      "group": "Questions",
+      "pages": ["questions/which-state-should-i-choose", "questions/does-each-spouse-need-a-lawyer"]
     },
     {
       "group": "Disclaimers",
