@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "State Laws",
+      "url": "state-laws"
+    },
+    {
       "name": "Q&A",
       "url": "questions"
     },
@@ -54,6 +58,10 @@
         "clauses/financial-disclosure",
         "clauses/waiver-of-rights"
       ]
+    },
+    {
+      "group": "State",
+      "pages": ["state-laws/california","state-laws/illinois","state-laws/texas"]
     },
     {
       "group": "Questions",
